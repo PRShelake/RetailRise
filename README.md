@@ -1,4 +1,5 @@
-# Online Shopping platform(E-commerce website)
+<h2 align="center">Hello World, Welcome to My RetailRise web application 👋</h2>
+
 ## About:
 Welcome to the E-Commerce Website project! This web application is designed to provide a seamless online shopping experience to users while empowering administrators with efficient management tools. The website is built using Java, JSP, Servlet, Html and JDBC technologies, ensuring a robust and scalable foundation for your e-commerce venture.
   
@@ -9,13 +10,16 @@ One of the best features of the project is the mailing system. The user receives
 
 Note: For demonstration purposes only, the payment page was developed; it is not completely integrated with any payment gateway. Therefore, the demo orders will be placed for the time being with any payment card information.
 
-### Technologies used:-
-1. Front-End Development:
-- HTML
-- CSS
-- Javascript/jQuery
-- BootStrap
-
+## 🛠 Technologies and Tools I use:
+<strong> 1. Front-End Development:</strong>
+   <ul>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>JavaScript/jQuery</li>
+     <li>BootStrap</li>
+   </ul>
+<br>
+<br>
 2. Back-End Development:
 - Java 17
 -	JDBC (Java Database Connectivity)
