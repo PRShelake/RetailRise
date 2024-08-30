@@ -12,27 +12,32 @@ Note: For demonstration purposes only, the payment page was developed; it is not
 
 ## 🛠 Technologies and Tools I use:
 <strong> 1. Front-End Development:</strong>
-   <ul>
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>JavaScript/jQuery</li>
-     <li>BootStrap</li>
-   </ul>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript/jQuery</li>
+  <li>BootStrap</li>
+</ul>
 <br>
+<strong> 2. Back-End Development:</strong>
+<ul>
+  <li>Java 17</li>
+  <li>JDBC (Java Database Connectivity</li>
+  <li>Servlet</li>
+  <li>JSP (JavaServer pages</li>
+</ul>
 <br>
-2. Back-End Development:
-- Java 17
--	JDBC (Java Database Connectivity)
--	Servlet
--	JSP (JavaServer Pages)
-
-3. Database:
-- MySql (8.0)
-
-4. Software and Tools
-- Eclipse EE
-- Tomcat 10
-- MySQL workbench
+<strong> 3. Database: </strong>
+<ul>
+  <li>MySQL (8.0)</li>
+</ul>
+<br>
+<strong> 4. Software and Tools </strong>
+<ul>
+  <li>Eclipse EE</li>
+  <li>Tomcat 10</li>
+  <li>MySQL workbench</li> 
+</ul>
 
 ###  Jar files used :
 - mysql-connector-j-8.0.31
