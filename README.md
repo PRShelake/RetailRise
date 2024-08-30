@@ -1,5 +1,25 @@
 <h2 align="center">Hello World, Welcome to My RetailRise web application 👋</h2>
 
+
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-purple)
+![Java](https://img.shields.io/badge/Java-17-purple)
+![JDBC](https://img.shields.io/badge/JDBC-purple)
+![Servlet](https://img.shields.io/badge/Servlet-purple)
+![JSP](https://img.shields.io/badge/JSP-purple)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-purple)
+![Eclipse](https://img.shields.io/badge/Eclipse-EE-purple)
+![Tomcat](https://img.shields.io/badge/Tomcat-10-purple)
+![MySQL workbench](https://img.shields.io/badge/-5.0-purple)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-purple)
+
+
+![Hibernate](https://img.shields.io/badge/Hibernate-JPA-yellreen)
+![API](https://img.shields.io/badge/API-OpenWeatherMap-orange)
+
+
 ## About:
 Welcome to the E-Commerce Website project! This web application is designed to provide a seamless online shopping experience to users while empowering administrators with efficient management tools. The website is built using Java, JSP, Servlet, Html and JDBC technologies, ensuring a robust and scalable foundation for your e-commerce venture.
   
@@ -18,7 +38,7 @@ Note: For demonstration purposes only, the payment page was developed; it is not
   <li>JavaScript/jQuery</li>
   <li>BootStrap</li>
 </ul>
-<br>
+
 <strong> 2. Back-End Development:</strong>
 <ul>
   <li>Java 17</li>
@@ -26,12 +46,12 @@ Note: For demonstration purposes only, the payment page was developed; it is not
   <li>Servlet</li>
   <li>JSP (JavaServer pages</li>
 </ul>
-<br>
+
 <strong> 3. Database: </strong>
 <ul>
   <li>MySQL (8.0)</li>
 </ul>
-<br>
+
 <strong> 4. Software and Tools </strong>
 <ul>
   <li>Eclipse EE</li>
@@ -39,11 +59,14 @@ Note: For demonstration purposes only, the payment page was developed; it is not
   <li>MySQL workbench</li> 
 </ul>
 
-###  Jar files used :
-- mysql-connector-j-8.0.31
-- angus-activation-2.0.1
-- jakarta.activation-api-2.1.2
-- jakarta.mail-2.0.1
+<strong> 5. Jar files used : </strong>
+<ul>
+  <li>mysql-connector-j-8.0.31</li>
+  <li>angus-activation-2.0.1</li>
+  <li>jakarta.activation-api-2.1.1</li>
+  <li>jakarta.mail-2.0.1</li>
+</ul>
+
 
 ## Screenshot of projects:-
 Home Page
